@@ -2,7 +2,7 @@ from setuptools import setup
 
 description = """
 # SmsServiceOnline 
-`pip3 install SmsServiceOnline==1.0.1`
+`pip3 install SmsServiceOnline==1.0.2`
 
 ## Example #1
 ```python
@@ -32,7 +32,7 @@ api.get_balance()
 """
 
 setup(name='SmsServiceOnline',
-    version='1.0.1',
+    version='1.0.2',
     description='Package for https://sms-service-online.com',
     long_description=description,
     long_description_content_type='text/markdown',
