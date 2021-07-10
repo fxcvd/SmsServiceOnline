@@ -25,4 +25,4 @@ api.get_balance()
 ### all methods -> [here](https://sms-service-online.com/ru/api-sms-activate/)  
 
 ---
->by @fxcvd with ❤
+```by @fxcvd with ❤```
