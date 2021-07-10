@@ -1,5 +1,5 @@
 # SmsServiceOnline 
-`pip3 install SmsServiceOnline`
+`pip3 install SmsServiceOnline==1.0.1`
 
 ## Example #1
 ```python
